@@ -55,18 +55,18 @@ const HomeStack = createStackNavigator(
       screen: SucceedEnter,
       navigationOptions: ({navigation}) => ({
         title: 'Konfirmasi Sesi',
-        headerLeft: (
-          <IconBack
-            onPress={() => {
-              navigation.navigate('Home');
-            }}
-          />
-        ),
+        // headerLeft: (
+        //   <IconBack
+        //     onPress={() => {
+        //       navigation.navigate('Home');
+        //     }}
+        //   />
+        // ),
       }),
     },
   },
   {
-    initialRouteName: 'SucceedEnter',
+    initialRouteName: 'Home',
     headerLayoutPreset: 'center',
     defaultNavigationOptions: () => ({
       headerTintColor: 'white',

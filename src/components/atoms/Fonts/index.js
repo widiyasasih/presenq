@@ -40,6 +40,12 @@ export const fonts = StyleSheet.create({
     color: 'white',
     position: 'absolute',
   },
+  confirmSucceed: {
+    fontSize: 20,
+    fontStyle: 'normal',
+    fontWeight: 'bold',
+    color: '#3DA40A',
+  },
   textInput: {
     borderWidth: 2,
     borderColor: colors.schema,

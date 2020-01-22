@@ -4,7 +4,7 @@ import Icon from 'react-native-vector-icons/MaterialIcons';
 import {fonts} from '../../atoms/Fonts';
 import {icons} from '../../atoms/Icons';
 
-const InputText = props => {
+const InputTextIcon = props => {
   const [text, setText] = useState('');
   return (
     <View
@@ -26,7 +26,7 @@ const InputText = props => {
           style={fonts.textInput}
           onChangeText={text => setState({text})}
           value={text}></TextInput>
-        <Icon name="send" style={icons.nonactive} />
+        <Icon name="send" style={icons.nonactive} onPress={props.press} />
       </View>
       <View
         style={{
@@ -41,4 +41,4 @@ const InputText = props => {
   );
 };
 
-export default InputText;
+export default InputTextIcon;

@@ -22,8 +22,8 @@ class ScanOption extends Component {
         </View>
         <View>
           <MainFeature
+            // pressType={() => this.props.navigation.navigate('TypeOption')}
             iconScan={<ScanIcon width={40} height={40} />}
-            pressType={() => this.props.navigation.navigate('TypeOption')}
             iconType={<TypeIcon width={40} height={40} />}
           />
         </View>
