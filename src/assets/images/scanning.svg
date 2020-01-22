@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="168" viewBox="0 0 152 168">
+  <g id="Group_38" data-name="Group 38" transform="translate(-105 -232)">
+    <rect id="Rectangle_391" data-name="Rectangle 391" width="13" height="13" transform="translate(198 232)" fill="#7e7e7e" opacity="0.32"/>
+    <rect id="Rectangle_396" data-name="Rectangle 396" width="9" height="9" transform="translate(157 391)" fill="#7e7e7e" opacity="0.32"/>
+    <rect id="Rectangle_393" data-name="Rectangle 393" width="5" height="5" transform="translate(155 254)" fill="#ffb12a" opacity="0.5"/>
+    <rect id="Rectangle_392" data-name="Rectangle 392" width="5" height="5" transform="translate(198 372)" fill="#ffb12a" opacity="0.6"/>
+    <rect id="Rectangle_394" data-name="Rectangle 394" width="5" height="5" transform="translate(252 342)" fill="#ffb12a" opacity="0.6"/>
+    <rect id="Rectangle_395" data-name="Rectangle 395" width="5" height="5" transform="translate(105 303)" fill="#ffb12a" opacity="0.6"/>
+    <g id="Rectangle_689" data-name="Rectangle 689" transform="translate(227 250)" fill="none" stroke="#707070" stroke-width="2">
+      <path d="M0,0H18a5,5,0,0,1,5,5V23a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M2,1H18a4,4,0,0,1,4,4V21a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V2A1,1,0,0,1,2,1Z" fill="none"/>
+    </g>
+    <g id="Rectangle_690" data-name="Rectangle 690" transform="translate(110 250)" fill="none" stroke="#707070" stroke-width="2">
+      <path d="M5,0H23a0,0,0,0,1,0,0V23a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+      <path d="M5,1H21a1,1,0,0,1,1,1V21a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V5A4,4,0,0,1,5,1Z" fill="none"/>
+    </g>
+    <g id="Rectangle_691" data-name="Rectangle 691" transform="translate(110 367)" fill="none" stroke="#707070" stroke-width="2">
+      <path d="M0,0H23a0,0,0,0,1,0,0V23a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M2,1H21a1,1,0,0,1,1,1V21a1,1,0,0,1-1,1H5a4,4,0,0,1-4-4V2A1,1,0,0,1,2,1Z" fill="none"/>
+    </g>
+    <g id="Rectangle_692" data-name="Rectangle 692" transform="translate(227 367)" fill="none" stroke="#707070" stroke-width="2">
+      <path d="M0,0H23a0,0,0,0,1,0,0V18a5,5,0,0,1-5,5H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M2,1H21a1,1,0,0,1,1,1V18a4,4,0,0,1-4,4H2a1,1,0,0,1-1-1V2A1,1,0,0,1,2,1Z" fill="none"/>
+    </g>
+  </g>
+</svg>

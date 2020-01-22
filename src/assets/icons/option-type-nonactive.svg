@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="Group_68" data-name="Group 68" transform="translate(-240 -143)">
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="16.5" cy="16.5" r="16.5" transform="translate(240 143)" fill="#ffe0ab"/>
+    <g id="Group_34" data-name="Group 34">
+      <path id="Path_422" data-name="Path 422" d="M15.14,29h-4V18.888a1.145,1.145,0,0,1,.511-.971c.573-.442,2.4-1.641,2.962-2s.528.447.528.447V29Zm-4-16.623c-.016-.31,0-12.377,0-12.377h4s.016,9.409,0,9.994.031.678-.512,1.09c-.272.183-1.736,1.124-2.91,1.916C11.108,13.313,11.155,12.688,11.139,12.377Z" transform="translate(250.861 152)" fill="#afafaf"/>
+      <rect id="Rectangle_383" data-name="Rectangle 383" width="16" height="4" rx="2" transform="translate(256 177)" fill="#afafaf"/>
+      <rect id="Rectangle_384" data-name="Rectangle 384" width="4" height="11" rx="2" transform="translate(250 152)" fill="#afafaf"/>
+      <rect id="Rectangle_385" data-name="Rectangle 385" width="4" height="11" rx="2" transform="translate(274 152)" fill="#afafaf"/>
+      <rect id="Rectangle_386" data-name="Rectangle 386" width="28" height="4" rx="2" transform="translate(250 152)" fill="#afafaf"/>
+    </g>
+  </g>
+</svg>

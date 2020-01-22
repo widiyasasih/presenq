@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_40" data-name="Group 40" transform="translate(-408 -552)">
+    <g id="home-24px" transform="translate(408 552)">
+      <path id="Path_427" data-name="Path 427" d="M0,0H24V24H0Z" fill="rgba(0,0,0,0)"/>
+      <path id="Path_428" data-name="Path 428" d="M10,19V14h4v5a1,1,0,0,0,1,1h3a1,1,0,0,0,1-1V12h1.7a.5.5,0,0,0,.33-.87L12.67,3.6a1.008,1.008,0,0,0-1.34,0L2.97,11.13A.5.5,0,0,0,3.3,12H5v7a1,1,0,0,0,1,1H9A1,1,0,0,0,10,19Z" fill="#474747"/>
+    </g>
+    <path id="Polygon_2" data-name="Polygon 2" d="M5.293.707a1,1,0,0,1,1.414,0l3.586,3.586A1,1,0,0,1,9.586,6H2.414a1,1,0,0,1-.707-1.707Z" transform="translate(414 558)" fill="#ffb12a"/>
+  </g>
+</svg>
